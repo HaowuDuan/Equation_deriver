@@ -12,3 +12,6 @@ search_tool=Tool(
 
 api_wrapper=WikipediaAPIWrapper(top_k_results=1,doc_content_chars_max=50)
 wiki_tool=WikipediaQueryRun(api_wrapper=api_wrapper)
+
+
+def 
